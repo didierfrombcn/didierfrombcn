@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @didierfrombcn
-- 👀 I’m interested in myself
-- 🌱 I’m currently learning how to be myself
-- 💞️ I’m looking to collaborate on myself
-- 📫 How to reach me : no
+- 👀 I’m interested in web dev, web3, digital arts, electronic music & more.
+- 🌱 I’m currently refreshing my knowledge on web dev.
+- 💞️ I’m looking to collaborate on anything i like :)
+- 📫 How to reach me : yo@didier.barcelona
 
 <!---
 didierfrombcn/didierfrombcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
